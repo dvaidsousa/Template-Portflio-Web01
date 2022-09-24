@@ -1,2 +1,1 @@
-# template-portfolio-web-01
- 
+Responsive template to create your portfolio and showcase your skills.
